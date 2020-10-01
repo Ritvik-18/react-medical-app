@@ -48,7 +48,7 @@ export const WelcomePageContent = props => {
               <b>Loading an old Prescription:</b> Prescriptions can be loaded by providing the <b>path</b> of the Prescription in the text box and pressing the <b>“Load” Button</b>. This Prescription can be your own, or someone else’s if they have given you access to that file.
               </li>
               <li>
-            	<b>Sharing your Prescription:</b> You can share your prescription to the other users by entering their <b>WebIID</b> in the textbox provided at the end of the prescription page and clicking on the <b>“Grant Access” Button.</b>
+            	<b>Sharing your Prescription:</b> You can share your prescription to the other users by entering their <b>WebID</b> in the textbox provided at the end of the prescription page and clicking on the <b>“Grant Access” Button.</b>
               </li>
               </ul>
           
